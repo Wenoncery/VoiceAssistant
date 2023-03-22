@@ -18,6 +18,7 @@ path = r"C:\Users\rares\PycharmProjects\VoiceAssistant\Songs"
 
 AudioSegment.converter = r"C:\Users\rares\Downloads\ffmpeg-master-latest-win64-gpl\ffmpeg-master-latest-win64-gpl\bin"
 
+John = 555
 
 def speak(audio):
     engine.say(audio)
